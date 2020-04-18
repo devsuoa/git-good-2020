@@ -7,3 +7,4 @@ Welcome to the repostiory for the DEVS 2020 Git workshop: "Git Good"! Here you w
 * Create a Github profile here: https://github.com/
 * Install a text editing software such as VS Code / Notepad ++ / Sublime text etc
 * You can change the default text editor for git to the text editor of your choice: https://help.github.com/en/github/using-git/associating-text-editors-with-git
+* Install Zoom
